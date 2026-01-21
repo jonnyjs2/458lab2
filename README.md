@@ -58,18 +58,18 @@ One unexpected finding was how strongly strategy-related terminology dominated t
 - The **CSV files** containing the collected text data and processed results are available for download at the following links:
 
 **Download CSV files:**
-- [Pokemon Data CSV](./data/pokemon.csv)
-- [Riftbound Data CSV](./data/riftbound.csv)
-- [Magic the Gathering Data CSV](./data/magic_the_gathering.csv)
+- [Pokemon Data CSV](/assets/pokemon.csv)
+- [Riftbound Data CSV](/assets/riftbound.csv)
+- [Magic the Gathering Data CSV](/assets/magic.csv)
 
 
 ## Word Clouds
 
 ### Pokémon
-![Pokémon Word Cloud](./images/pokemon_wordcloud.png)
+![Pokémon Word Cloud](/img/pokemon.png)
 
 ### Riftbound
-![Riftbound Word Cloud](./images/riftbound_wordcloud.png)
+![Riftbound Word Cloud](/img/riftbound.png)
 
 ### Magic: The Gathering
-![Magic the Gathering Word Cloud](./images/magic_wordcloud.png)
+![Magic the Gathering Word Cloud](/img/magic.png)
